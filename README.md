@@ -109,4 +109,4 @@ terraform destroy
 
 - Make sure to replace the SSH public key in the Packer configuration with your own
 - Update the allowed IP address in the bastion host security group
-- The custom AMI ID will be automatically used in the Terraform configuration
+- After building the AMI with Packer, manually update the `ami_id` in `terraform.tfvars` with the new AMI ID
