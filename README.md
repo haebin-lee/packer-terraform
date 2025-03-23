@@ -97,13 +97,13 @@ terraform destroy
 ## Screenshots
 
 - AMI
-  [AMI image](screenshot/ami-1.png)
+  ![AMI image](screenshot/ami-1.png)
 - VPC
-  [VPC image](screenshot/vpc-1.png)
+  ![VPC image](screenshot/vpc-1.png)
 - EC2
-  [EC2 image](screenshot/ec2-1.png)
+  ![EC2 image](screenshot/ec2-1.png)
 - Bastion and private EC2 Test
-  [Bastion and Private EC2 Test](screenshot/packer-terraform.gif)
+  ![Bastion and Private EC2 Test](screenshot/packer-terraform.gif)
 
 ## Notes
 
